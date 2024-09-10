@@ -1,4 +1,1 @@
-# console.log("Hello world!");  
-  
-
-### <div align="center">I'm Nahid, a full-time full-stack developer 👨‍💻 from Tuzla, Bosnia and Herzegovina</div>  
+### <div align="center">I'm Nahid, a full-time full-stack developer 👨‍💻 from Gracanica, Bosnia and Herzegovina</div>  
